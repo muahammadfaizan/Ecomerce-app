@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#bg-gold {
+    background-color: #CFB53B;
+    color:  white;
+    
+}
+
+
+#card-bg{
+    background-color: #EEDC82;
+    /* background-color: #F4C431; */
+}
